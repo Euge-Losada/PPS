@@ -1,0 +1,9 @@
+# Ignorar node_modules y base de datos (backend)
+backend/node_modules/
+backend/neumaticos.db
+
+# Ignorar build y otras carpetas generadas por Flutter (frontend)
+frontend/build/
+frontend/.dart_tool/
+frontend/.packages
+frontend/.flutter-plugins
